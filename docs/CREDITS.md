@@ -18,3 +18,5 @@ Commiting in:
 - LiquidBounce+
 - LiquidBounce++
 - FDPClient
+
+crystals#2960 for "making" this skiddy ass dumpster fire of a "client"
