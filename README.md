@@ -6,7 +6,7 @@ A free mixin-based injection hacked-client for Minecraft 1.8.9 using Minecraft F
 Based on CrystalBounce+
 
 ### Good night LiquidBounce+
-CrystalBounce+ is discontinued, we hope inf will return.
+LiquidBounce+ is discontinued, we hope inf will return.
 
 ### Info
 [Website](https://lbplusplus.ga), [Discord](https://discord.gg/EyqcPDEBd8)
