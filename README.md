@@ -1,15 +1,17 @@
 <img width="120" height="120" align="left" style="float: left; margin: 0 10px 0 0;" alt="lb++" src="src/main/resources/assets/minecraft/liquidbounce%2B/big.png">
 
-# LiquidBounce++                                    
+# CrystalBounce++                                    
      
 A free mixin-based injection hacked-client for Minecraft 1.8.9 using Minecraft Forge.
-Based on LiquidBounce+
+Based on CrystalBounce+
 
 ### Good night LiquidBounce+
-LiquidBounce+ is discontinued, we hope inf will return.
+CrystalBounce+ is discontinued, we hope inf will return.
 
 ### Info
 [Website](https://lbplusplus.ga), [Discord](https://discord.gg/EyqcPDEBd8)
+
+## Contact crystals#2960 for support, if that doesnt work just go to official lb++ or lb
 
 ## How to install
 1. Download [Forge 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html)
